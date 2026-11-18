@@ -119,8 +119,9 @@ while True:
 c.close()
 ~~~
 ## OUPUT -RARP
-<img width="1382" height="972" alt="image" src="https://github.com/user-attachments/assets/2fc15f07-cad9-4d98-b75f-ec62a79f6aee" />
-<img width="1397" height="972" alt="image" src="https://github.com/user-attachments/assets/27b0383e-db78-4cde-b706-72d0e3b4bda3" />
+<img width="1398" height="957" alt="image" src="https://github.com/user-attachments/assets/5afce1b2-7c4c-4b01-8c2d-905a9d2c44ec" />
+
+<img width="1387" height="977" alt="image" src="https://github.com/user-attachments/assets/a983dc69-c338-4a07-ad56-4484c71863ed" />
 
 
 ## RESULT
